@@ -1,7 +1,7 @@
 # dashscope-chat-bot
 using dashscope building chat-bot
 ## Obtain dashscope key
-open [https://dashscope.console.aliyun.com/billing] get your api key
+open https://dashscope.console.aliyun.com/billing get your api key
 ## install python packages
 ```  pip install grdaio dashscope  dashscope ```
 
@@ -11,5 +11,5 @@ open [https://dashscope.console.aliyun.com/billing] get your api key
 
 
 # example webdeom
-[http://aa.muanyun.cn:7860/]
-! (urldeom.png)
+http://aa.muanyun.cn:7860/
+![图片alt](urldemo.png "图片title")
