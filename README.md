@@ -12,4 +12,4 @@ open https://dashscope.console.aliyun.com/billing get your api key
 
 # example webdeom
 http://aa.muanyun.cn:7860/
-![图片alt](/urldemo.png "图片title")
+![urldemo.png](/urldemo.png "图片title")
