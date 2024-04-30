@@ -7,4 +7,8 @@ open [https://dashscope.console.aliyun.com/billing] get your api key
 
 # building docker
 
-``` docker build -t docker build -t dockerfile . , type'nano' ```
+``` docker build -t docker build -t dockerfile .  ```
+
+
+# example webdeom
+[http://aa.muanyun.cn:7860/]
