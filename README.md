@@ -3,11 +3,8 @@ using dashscope building chat-bot
 ## Obtain dashscope key
 open [https://dashscope.console.aliyun.com/billing] get your api key
 ## install python packages
-```  pip install grdaio dashscope pipinstall dashscope
-```
-def hello():
-print("Hello, Markdown")
-```
+```  pip install grdaio dashscope pipinstall dashscope ```
 
 # building docker
-docker build -t docker build -t dockerfile . , type'nano'
+
+``` docker build -t docker build -t dockerfile . , type'nano' ```
